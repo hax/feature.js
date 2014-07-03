@@ -1,0 +1,25 @@
+{
+  "name": "feature.js",
+  "version": "0.0.0",
+  "description": "A library to detect feature/bug and apply shim/polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hax/feature.js.git"
+  },
+  "keywords": [
+    "feature",
+    "bug",
+    "shim",
+    "polyfill"
+  ],
+  "author": "hax <johnhax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hax/feature.js/issues"
+  },
+  "homepage": "https://github.com/hax/feature.js"
+}
